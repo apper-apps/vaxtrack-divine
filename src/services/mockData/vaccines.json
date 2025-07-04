@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "commercialName": "Pfizer-BioNTech COVID-19",
+    "genericName": "COVID-19 mRNA Vaccine",
+    "family": "COVID-19",
+    "alertThreshold": 50
+  },
+  {
+    "Id": 2,
+    "commercialName": "Moderna COVID-19",
+    "genericName": "COVID-19 mRNA Vaccine",
+    "family": "COVID-19",
+    "alertThreshold": 50
+  },
+  {
+    "Id": 3,
+    "commercialName": "Johnson & Johnson COVID-19",
+    "genericName": "COVID-19 Viral Vector Vaccine",
+    "family": "COVID-19",
+    "alertThreshold": 30
+  },
+  {
+    "Id": 4,
+    "commercialName": "Fluzone Quadrivalent",
+    "genericName": "Influenza Vaccine",
+    "family": "Influenza",
+    "alertThreshold": 25
+  },
+  {
+    "Id": 5,
+    "commercialName": "Hepatitis B Vaccine",
+    "genericName": "Hepatitis B Vaccine",
+    "family": "Hepatitis",
+    "alertThreshold": 20
+  },
+  {
+    "Id": 6,
+    "commercialName": "Prevnar 13",
+    "genericName": "Pneumococcal Conjugate Vaccine",
+    "family": "Pneumococcal",
+    "alertThreshold": 15
+  },
+  {
+    "Id": 7,
+    "commercialName": "Boostrix",
+    "genericName": "Tdap Vaccine",
+    "family": "Tdap",
+    "alertThreshold": 20
+  },
+  {
+    "Id": 8,
+    "commercialName": "MMR-II",
+    "genericName": "Measles, Mumps, Rubella Vaccine",
+    "family": "MMR",
+    "alertThreshold": 15
+  }
+]

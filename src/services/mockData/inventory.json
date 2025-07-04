@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "vaccineId": 1,
+    "lotNumber": "PF001234",
+    "expirationDate": "2024-12-31",
+    "quantityOnHand": 145,
+    "receivedDate": "2024-01-15"
+  },
+  {
+    "Id": 2,
+    "vaccineId": 1,
+    "lotNumber": "PF001235",
+    "expirationDate": "2024-06-30",
+    "quantityOnHand": 78,
+    "receivedDate": "2024-02-01"
+  },
+  {
+    "Id": 3,
+    "vaccineId": 2,
+    "lotNumber": "MD002100",
+    "expirationDate": "2024-11-15",
+    "quantityOnHand": 203,
+    "receivedDate": "2024-01-20"
+  },
+  {
+    "Id": 4,
+    "vaccineId": 2,
+    "lotNumber": "MD002101",
+    "expirationDate": "2024-05-20",
+    "quantityOnHand": 45,
+    "receivedDate": "2024-03-10"
+  },
+  {
+    "Id": 5,
+    "vaccineId": 3,
+    "lotNumber": "JJ003456",
+    "expirationDate": "2024-08-10",
+    "quantityOnHand": 89,
+    "receivedDate": "2024-02-15"
+  },
+  {
+    "Id": 6,
+    "vaccineId": 4,
+    "lotNumber": "FZ004789",
+    "expirationDate": "2024-04-30",
+    "quantityOnHand": 156,
+    "receivedDate": "2024-01-05"
+  },
+  {
+    "Id": 7,
+    "vaccineId": 4,
+    "lotNumber": "FZ004790",
+    "expirationDate": "2024-10-31",
+    "quantityOnHand": 67,
+    "receivedDate": "2024-03-01"
+  },
+  {
+    "Id": 8,
+    "vaccineId": 5,
+    "lotNumber": "HB005123",
+    "expirationDate": "2025-01-15",
+    "quantityOnHand": 234,
+    "receivedDate": "2024-02-20"
+  },
+  {
+    "Id": 9,
+    "vaccineId": 6,
+    "lotNumber": "PV006456",
+    "expirationDate": "2024-07-20",
+    "quantityOnHand": 98,
+    "receivedDate": "2024-01-30"
+  },
+  {
+    "Id": 10,
+    "vaccineId": 7,
+    "lotNumber": "TD007789",
+    "expirationDate": "2024-09-15",
+    "quantityOnHand": 123,
+    "receivedDate": "2024-02-10"
+  },
+  {
+    "Id": 11,
+    "vaccineId": 8,
+    "lotNumber": "MMR008012",
+    "expirationDate": "2024-12-01",
+    "quantityOnHand": 87,
+    "receivedDate": "2024-01-25"
+  },
+  {
+    "Id": 12,
+    "vaccineId": 1,
+    "lotNumber": "PF001240",
+    "expirationDate": "2024-03-15",
+    "quantityOnHand": 12,
+    "receivedDate": "2024-01-10"
+  }
+]

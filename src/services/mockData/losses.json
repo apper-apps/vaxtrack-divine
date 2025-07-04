@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "inventoryId": 2,
+    "quantity": 10,
+    "reason": "temperature",
+    "details": "Freezer malfunction overnight caused temperature excursion above 8°C for 6 hours",
+    "reportDate": "2024-02-15"
+  },
+  {
+    "Id": 2,
+    "inventoryId": 4,
+    "quantity": 5,
+    "reason": "broken-vial",
+    "details": "Vials dropped during transport from storage to clinic area",
+    "reportDate": "2024-02-20"
+  },
+  {
+    "Id": 3,
+    "inventoryId": 6,
+    "quantity": 8,
+    "reason": "drawing-error",
+    "details": "Contamination during drawing process - syringe touched non-sterile surface",
+    "reportDate": "2024-03-01"
+  }
+]

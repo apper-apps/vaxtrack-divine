@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "inventoryId": 1,
+    "dosesAdministered": 25,
+    "administrationDate": "2024-03-01"
+  },
+  {
+    "Id": 2,
+    "inventoryId": 1,
+    "dosesAdministered": 30,
+    "administrationDate": "2024-03-02"
+  },
+  {
+    "Id": 3,
+    "inventoryId": 3,
+    "dosesAdministered": 15,
+    "administrationDate": "2024-03-02"
+  },
+  {
+    "Id": 4,
+    "inventoryId": 2,
+    "dosesAdministered": 20,
+    "administrationDate": "2024-03-03"
+  },
+  {
+    "Id": 5,
+    "inventoryId": 5,
+    "dosesAdministered": 12,
+    "administrationDate": "2024-03-03"
+  },
+  {
+    "Id": 6,
+    "inventoryId": 6,
+    "dosesAdministered": 35,
+    "administrationDate": "2024-03-04"
+  },
+  {
+    "Id": 7,
+    "inventoryId": 8,
+    "dosesAdministered": 18,
+    "administrationDate": "2024-03-04"
+  },
+  {
+    "Id": 8,
+    "inventoryId": 9,
+    "dosesAdministered": 22,
+    "administrationDate": "2024-03-05"
+  }
+]

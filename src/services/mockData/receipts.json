@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "vaccineId": 1,
+    "lotNumber": "PF001234",
+    "quantitySent": 150,
+    "quantityReceived": 150,
+    "passedInspection": 145,
+    "failedInspection": 5,
+    "discrepancyReason": "5 vials had cracked containers",
+    "receivedDate": "2024-01-15"
+  },
+  {
+    "Id": 2,
+    "vaccineId": 2,
+    "lotNumber": "MD002100",
+    "quantitySent": 200,
+    "quantityReceived": 200,
+    "passedInspection": 200,
+    "failedInspection": 0,
+    "discrepancyReason": "",
+    "receivedDate": "2024-01-20"
+  },
+  {
+    "Id": 3,
+    "vaccineId": 1,
+    "lotNumber": "PF001235",
+    "quantitySent": 100,
+    "quantityReceived": 98,
+    "passedInspection": 78,
+    "failedInspection": 20,
+    "discrepancyReason": "Temperature excursion during transport, 2 vials missing",
+    "receivedDate": "2024-02-01"
+  }
+]
