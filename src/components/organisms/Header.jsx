@@ -1,10 +1,10 @@
-import React, { useContext } from 'react';
-import { useLocation } from 'react-router-dom';
-import { useSelector } from 'react-redux';
-import ApperIcon from '@/components/ApperIcon';
-import Badge from '@/components/atoms/Badge';
-import Button from '@/components/atoms/Button';
-import { AuthContext } from '../../App';
+import React, { useContext } from "react";
+import { useLocation } from "react-router-dom";
+import { useSelector } from "react-redux";
+import { AuthContext } from "../../App";
+import ApperIcon from "@/components/ApperIcon";
+import Badge from "@/components/atoms/Badge";
+import Button from "@/components/atoms/Button";
 
 const Header = ({ onMenuToggle, alerts = [] }) => {
   const location = useLocation();
@@ -61,9 +61,11 @@ const Header = ({ onMenuToggle, alerts = [] }) => {
             <LogoutButton />
           </div>
         </div>
-      </div>
+</div>
     </header>
   );
+};
+
 const UserProfile = () => {
   const { user } = useSelector((state) => state.user);
   
@@ -98,7 +100,6 @@ const LogoutButton = () => {
       <span className="hidden sm:inline">Logout</span>
     </Button>
   );
-};
 };
 
 export default Header;
