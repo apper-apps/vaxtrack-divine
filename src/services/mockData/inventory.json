@@ -5,7 +5,7 @@
     "lotNumber": "3CA03C3",
     "expirationDate": "2025-09-30",
     "quantityOnHand": 1,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 2,
@@ -13,7 +13,7 @@
     "lotNumber": "U7908AA",
     "expirationDate": "2025-10-03",
     "quantityOnHand": 18,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 3,
@@ -21,7 +21,7 @@
     "lotNumber": "W1C741M",
     "expirationDate": "2025-11-11",
     "quantityOnHand": 5,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 4,
@@ -29,7 +29,7 @@
     "lotNumber": "X024135",
     "expirationDate": "2026-05-21",
     "quantityOnHand": 1,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 5,
@@ -37,7 +37,7 @@
     "lotNumber": "X021477",
     "expirationDate": "2026-05-18",
     "quantityOnHand": 10,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 6,
@@ -45,7 +45,7 @@
     "lotNumber": null,
     "expirationDate": null,
     "quantityOnHand": 0,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 7,
@@ -53,7 +53,7 @@
     "lotNumber": null,
     "expirationDate": null,
     "quantityOnHand": 0,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 8,
@@ -61,7 +61,7 @@
     "lotNumber": "Y014095",
     "expirationDate": "2026-09-19",
     "quantityOnHand": 1,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 9,
@@ -69,7 +69,7 @@
     "lotNumber": "Y015020",
     "expirationDate": "2026-09-05",
     "quantityOnHand": 20,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 10,
@@ -77,7 +77,7 @@
     "lotNumber": "UK148AA",
     "expirationDate": "2025-09-30",
     "quantityOnHand": 7,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 11,
@@ -85,7 +85,7 @@
     "lotNumber": "4CA04C1",
     "expirationDate": "2026-10-20",
     "quantityOnHand": 16,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 12,
@@ -93,7 +93,7 @@
     "lotNumber": "Y017914",
     "expirationDate": "2028-10-28",
     "quantityOnHand": 2,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 13,
@@ -101,7 +101,7 @@
     "lotNumber": "Z004454",
     "expirationDate": "2027-02-13",
     "quantityOnHand": 10,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 14,
@@ -109,7 +109,7 @@
     "lotNumber": "U8494AA",
     "expirationDate": "2028-06-20",
     "quantityOnHand": 18,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 15,
@@ -117,7 +117,7 @@
     "lotNumber": "CD44A",
     "expirationDate": "2028-03-31",
     "quantityOnHand": 4,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 16,
@@ -125,7 +125,7 @@
     "lotNumber": "Y014585",
     "expirationDate": "2026-02-01",
     "quantityOnHand": 2,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 17,
@@ -133,7 +133,7 @@
     "lotNumber": "Y015910",
     "expirationDate": "2026-02-06",
     "quantityOnHand": 20,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 18,
@@ -141,7 +141,7 @@
     "lotNumber": "UK329AA",
     "expirationDate": "2026-07-20",
     "quantityOnHand": 6,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 19,
@@ -149,7 +149,7 @@
     "lotNumber": "Y013768",
     "expirationDate": "2027-02-12",
     "quantityOnHand": 11,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 20,
@@ -157,7 +157,7 @@
     "lotNumber": "Y019176",
     "expirationDate": "2026-05-18",
     "quantityOnHand": 1,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 21,
@@ -165,7 +165,7 @@
     "lotNumber": "Z007581",
     "expirationDate": "2026-10-12",
     "quantityOnHand": 20,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 22,
@@ -173,7 +173,7 @@
     "lotNumber": "Y018378",
     "expirationDate": "2026-05-10",
     "quantityOnHand": 25,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 23,
@@ -181,7 +181,7 @@
     "lotNumber": "Y014321",
     "expirationDate": "2026-05-01",
     "quantityOnHand": 6,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 24,
@@ -189,7 +189,7 @@
     "lotNumber": "U7788AA",
     "expirationDate": "2026-06-08",
     "quantityOnHand": 18,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   },
   {
     "Id": 25,
@@ -197,14 +197,6 @@
     "lotNumber": "U7767AA",
     "expirationDate": "2026-05-26",
     "quantityOnHand": 10,
-    "receivedDate": "2024-03-15"
-  },
-  {
-    "Id": 26,
-    "vaccineId": 21,
-    "lotNumber": "Y019380",
-    "expirationDate": "2027-05-28",
-    "quantityOnHand": 13,
-    "receivedDate": "2024-03-15"
+    "receivedDate": "2024-12-01"
   }
 ]
