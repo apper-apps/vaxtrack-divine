@@ -18,6 +18,41 @@ class AdministrationService {
           { field: { Name: "doses_administered" } },
           { field: { Name: "administration_date" } },
           { field: { Name: "inventory_id" } }
+        ],
+        orderBy: [
+          {
+            fieldName: "administration_date",
+            sorttype: "DESC"
+          }
+        ]
+      };
+
+      const response = await apperClient.fetchRecords('administration', params);
+      
+      if (!response.success) {
+        console.error('Administration fetch failed:', response.message);
+        toast.error(response.message);
+        return [];
+      }
+
+      return response.data || [];
+    } catch (error) {
+      console.error('Error fetching administrations:', error);
+      toast.error('Failed to fetch administrations');
+      return [];
+    }
+  }
+
+  async getById(id) {
+    try {
+      const params = {
+        fields: [
+          { field: { Name: "Name" } },
+          { field: { Name: "Tags" } },
+          { field: { Name: "Owner" } },
+          { field: { Name: "doses_administered" } },
+          { field: { Name: "administration_date" } },
+          { field: { Name: "inventory_id" } }
         ]
       };
       
